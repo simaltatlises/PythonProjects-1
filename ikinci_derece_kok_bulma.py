@@ -1,4 +1,4 @@
-print("2.Dereceden Bir Denklemin Köklerini Bulmatör\nDenklem:ax^2+bx+c")
+print("2.Dereceden Bir Denklemin Köklerini Bulma\nDenklem:ax^2+bx+c")
 a=int(input("a değerini giriniz:"))
 b=int(input("b değerini giriniz:"))
 c=int(input("c değerini giriniz:"))
